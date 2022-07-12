@@ -1,0 +1,9 @@
+It's Okay to not be okay
+
+<div class="row">
+	<div class="col-md-12">
+		<p>Ketika seseorang bertanya pada mu "Apa kabarmu?", Jawaban apa yang kamu berikan? Saya baik-baik saja atau Saya sedang tidak baik baik saja tapi saya yakin ini semua akan berlalu?. Seringkali kita sebagai manusia menyembunyikan perasaan kita, berpura-pura baik baik saja, padahal kita sedang tidak baik baik saja. Kita seringkali mencoba untuk menghilangkan suasana melankolis di sekitar diri kita dengan mengalihkan perhatian kita dengan beberapa kekhawatiran yang lain atau cenderung mematikan perasaan. Biarkan saya memberi tahu Anda satu hal 'manusia tidak dirancang untuk bahagia sepanjang waktu' adakalanya anda merasa sedih, khawatir atau emosi lainnya. Saya harus mengatakan sebagai pilihan terbaik adalah mengambil semua waktu yang Anda butuhkan & mengakui semua emosi yang Anda punya. Tidak peduli betapa menyakitkannya itu, jika Anda tidak mengatasinya dan berpura-pura bersikap 'Saya bahagia sepanjang waktu atau saya akan menghadapinya nanti', Anda akan menyadari bahwa emosi ini akan mewujudkan realitas yang berbeda dalam hidup Anda cepat atau lambat. Nantinya mungkin akan lebih menyiksa dari ini.</p>
+		<p>Pasti ada tindakan yang dapat Anda ambil untuk melepaskan diri dari rasa sakit emosional atau keegoisan, tetapi sebagian besar tindakan tersebut memiliki unsur fokus pada diri sendiri sebelum Anda mulai berfokus pada orang lain.Tidak apa-apa untuk merasakan sakit. Tidak apa-apa untuk merasa takut. Tidak apa-apa untuk merasa tidak pasti. Tidak apa-apa untuk merasakan kesedihan. Tidak apa-apa untuk merasa kesepian. Tidak apa-apa untuk tidak baik-baik saja.Ya, itu akan berlalu. Ya, itu tidak kekal. Tetapi Anda dapat menghargai pengalaman emosional Anda dengan hadir untuk itu, bukan dengan mengalihkan perhatian Anda atau menghindarinya dengan setiap serat keberadaan Anda. Hanya untuk hari ini, tunjukkan apa pun yang Anda rasakan.</p>
+	</div>	
+</div>
+
